@@ -1,22 +1,3 @@
-BradStevenson
-/
-Simple-C-Calculator
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Simple-C-Calculator/Calculator.c
-@BradStevenson
-BradStevenson Simple CLI Calculator
-…
- 1 contributor
-39 lines (35 sloc)  836 Bytes
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
